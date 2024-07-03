@@ -48,5 +48,4 @@ This analysis involves examining human resources-related data to gain valuable i
 > Check data types and address any inconsistencies.
 > Validate data quality and accuracy.
 - Export Cleaned Data:
-- Prepare the cleaned dataset for further analysis.
-Export data for reporting in PowerBI
+> Prepare the cleaned dataset for further analysis and reporting in PowerBI
