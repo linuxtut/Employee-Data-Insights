@@ -4,34 +4,34 @@ This analysis involves examining human resources-related data to gain valuable i
 
 **Key Areas of Analysis:**
 1. Employee Demographics Analysis:
-  - Understand the composition of the workforce based on factors such as age, gender, ethnicity, and education.
-  - Identify trends and patterns within different demographic groups.
+  > Understand the composition of the workforce based on factors such as age, gender, ethnicity, and education.
+  > Identify trends and patterns within different demographic groups.
 2. Salary Analysis:
-  - Explore salary distributions, disparities, and trends.
-  - Evaluate compensation structures and identify areas for improvement.
+ > Explore salary distributions, disparities, and trends.
+ > Evaluate compensation structures and identify areas for improvement.
 3. Employee Turnover Analysis: 
-  - Investigate turnover rates, reasons for attrition, and retention strategies.
-  - Pinpoint high-risk areas and take proactive measures.
+ > Investigate turnover rates, reasons for attrition, and retention strategies.
+ > Pinpoint high-risk areas and take proactive measures.
 4. Performance Analysis:
-  - Assess individual and team performance metrics.
-  - Link performance to business outcomes and productivity.
+ > Assess individual and team performance metrics.
+ > Link performance to business outcomes and productivity.
 5. Engagement and Satisfaction Analysis:
-  - Measure employee engagement, job satisfaction, and morale.
-  - Identify factors influencing engagement levels.
+ > Measure employee engagement, job satisfaction, and morale.
+ > Identify factors influencing engagement levels.
 6. Attendance and Punctuality Analysis:
-  - Monitor attendance patterns, absenteeism, and punctuality.
-  - Address any issues affecting productivity.
+> Monitor attendance patterns, absenteeism, and punctuality.
+> Address any issues affecting productivity.
 7. Manager Performance Analysis:
-  - Evaluate managerial effectiveness and leadership impact.
-  - Provide insights for leadership development.
+> Evaluate managerial effectiveness and leadership impact.
+> Provide insights for leadership development.
 8. Recruitment Source Effectiveness:
-  - Analyze the effectiveness of different recruitment channels.
-  - Optimize recruitment strategies based on data.
+> Analyze the effectiveness of different recruitment channels.
+> Optimize recruitment strategies based on data.
 9. Special Projects Impact:
-  - Assess the impact of special initiatives (e.g., training programs, diversity initiatives) on employee performance and satisfaction.
+ > Assess the impact of special initiatives (e.g., training programs, diversity initiatives) on employee performance and satisfaction.
 10. Age and Tenure Analysis:
-  - Understand the distribution of employee ages and tenure.
-  - Correlate age and tenure with performance and engagement.
+ > Understand the distribution of employee ages and tenure.
+ > Correlate age and tenure with performance and engagement.
 
 **Steps in HR Data Analysis:**
 - Preprocessing:
